@@ -1,1 +1,1 @@
-# Bengali-Covid-Fake-News-Dataset
+# Bengali-Covid-Fake-News
